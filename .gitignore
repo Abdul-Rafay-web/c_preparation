@@ -4,6 +4,25 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 
+# Personal roadmaps, planning PDFs/TXTs, checklists & AI agent notes
+/*.pdf
+/*.txt
+*Operation_Geneva*
+*Crack_Plan*
+*roadmap*
+*Roadmap*
+*ROADMAP*
+SHIP_CHECKLIST.md
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+CURSOR.md
+.cursorrules
+.claude/
+.gemini/
+.agent/
+.antigravity/
+
 # Large local ML datasets (reproducible via scripts)
 practice/pytorch/data/
 projects/triggernet/data/
@@ -17,6 +36,7 @@ projects/triggernet/data/
 # Node / Web build artifacts
 **/node_modules/
 **/dist/
+*.tsbuildinfo
 
 # Misc
 .DS_Store

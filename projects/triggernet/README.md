@@ -46,7 +46,6 @@ projects/triggernet/
 │   └── TriggerNet_Level2_Kaggle_Colab_GPU.ipynb # 1-Click Cloud GPU runner for full 3.87 GB Zenodo 3602260
 ├── report/
 │   └── triggernet_technical_report.md        # Step 7: 6-page CERN research technical report (Zenodo DOI ready)
-├── SHIP_CHECKLIST.md                         # Step 7: Exact GitHub + Zenodo free DOI publishing checklist
 ├── requirements.txt                          # Reproducible Python dependencies
 ├── figures/                                  # Publication-quality plots (ROC, mass peaks, Pareto, parity)
 ├── checkpoints/                              # Saved Float32 + compressed QAT / PQuantML checkpoints
