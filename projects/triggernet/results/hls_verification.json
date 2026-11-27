@@ -1,0 +1,18 @@
+[
+  {
+    "Model": "8-bit + 50% Pruned",
+    "PyTorch AUC": 0.9423461519189236,
+    "ap_fixed Bit-Accurate Emulator AUC": 0.9423982658028933,
+    "\u0394AUC": 5.211388396975103e-05,
+    "Top-1 Agreement (%)": 99.595,
+    "Mean |\u0394logit|": 0.018049413338303566
+  },
+  {
+    "Model": "6-bit + 75% Pruned",
+    "PyTorch AUC": 0.9371325253970829,
+    "ap_fixed Bit-Accurate Emulator AUC": 0.9371208374900407,
+    "\u0394AUC": 1.1687907042201573e-05,
+    "Top-1 Agreement (%)": 99.315,
+    "Mean |\u0394logit|": 0.039944685995578766
+  }
+]

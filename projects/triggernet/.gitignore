@@ -1,0 +1,10 @@
+/data/
+checkpoints/*.pt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+triggernet_level2_out/
+*.zip
+web/node_modules/
+web/dist/
+*.tsbuildinfo

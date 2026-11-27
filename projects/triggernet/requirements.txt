@@ -1,0 +1,11 @@
+torch>=2.2
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+matplotlib>=3.9
+h5py>=3.10
+pyarrow>=17.0
+hls4ml>=1.3
+pquant-ml>=0.1
+jupyter
+ipykernel
